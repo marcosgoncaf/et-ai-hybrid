@@ -1,0 +1,11 @@
+streamlit
+pandas
+bibtexparser
+sumy
+transformers
+torch
+sentence-transformers
+llama-cpp-python
+faiss-cpu
+PyMuPDF
+huggingface_hub
